@@ -1,1 +1,1 @@
-console.log("foo bar diff");
+console.log("foo bar");
