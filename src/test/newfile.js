@@ -1,1 +1,1 @@
-const content = "Got that yeah!";
+const content = "Got that!";
